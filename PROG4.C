@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	float a,b,c1,c2,c3,c4;
+	float a, b, c1, c2, c3, c4;
 	printf("This Program will give you the all basic calculations of given numbers.\n");
 	printf("Enter the First Number: \n");
 	scanf("%f",&a);
