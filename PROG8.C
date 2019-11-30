@@ -1,4 +1,4 @@
-//8. Write a C program to enter a distance into kilometerand convert it into meter, feet, inches and centimeter.
+//8. Write a C program to enter a distance into kilometer and convert it into meter, feet, inches and centimeter.
 #include<stdio.h>
 int main()
 {
