@@ -10,8 +10,8 @@ int main()
 	scanf("%d",&b);
 	printf("Before Interchange, a=%d, b=%d\n",a,b);
 	x=a;
-  a=b;
-  b=x;
-  printf("After Interchange, a=%d, b=%d",a,b);
-  return 0;
+	a=b;
+	b=x;
+	printf("After Interchange, a=%d, b=%d",a,b);
+	return 0;
 }
