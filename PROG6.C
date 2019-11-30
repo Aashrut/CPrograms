@@ -1,4 +1,4 @@
-//3. Write a program to calculate simple interest (i = (p*r*n)/100 ) where i = Simple interest, p = Principal amount, r = Rate of interest, n = Number of years.
+//6. Write a program to calculate simple interest (i = (p*r*n)/100 ) where i = Simple interest, p = Principal amount, r = Rate of interest, n = Number of years.
 #include<stdio.h>
 int main()
 {
