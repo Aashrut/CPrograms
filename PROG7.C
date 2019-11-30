@@ -1,4 +1,4 @@
-//4. Write a C program to interchange two numbers.
+//7. Write a C program to interchange two numbers.
 #include<stdio.h>
 int main()
 {
