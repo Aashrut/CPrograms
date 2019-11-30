@@ -12,5 +12,5 @@ int main()
 	    printf("The Number is Zero.");
 	else if (a>0)
 	    printf("The Number is Positive.");
-  return 0;
+	return 0;
 }
