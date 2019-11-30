@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-	float r,pi=3.14,a;
+	float r, pi=3.14, a;
 	printf("This Program will let you calculate the area of the circle.\n");
 	printf("Enter the radius of the circle: \n");
 	scanf("%f",&r);
