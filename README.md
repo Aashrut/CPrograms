@@ -80,9 +80,5 @@ Just different kinds of C Programs.
     <li>Write a program to print patterns as given below:</li>
     <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 2 3<br />&nbsp; &nbsp; &nbsp; 1 2 3 4 5<br />&nbsp; &nbsp;1 2 3 4 5 6 7<br />1 2 3 4 5 6 7 8 9</p>
     <li>Make Pascal's triangle. OR Write a program to print patterns as given below:</li>
-    <p>&nbsp; &nbsp; &nbsp;1<br />
-&nbsp; &nbsp; 1 1<br />
-&nbsp; &nbsp;1 2 1<br />
-&nbsp; 1 3 3 1<br />
-&nbsp;1 4 6 4 1</p>
+  <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1<br />&nbsp; &nbsp; &nbsp; &nbsp;1&nbsp; 1<br />&nbsp; &nbsp; &nbsp;1&nbsp; 2&nbsp; 1<br />&nbsp; &nbsp;1&nbsp; 3&nbsp; 3&nbsp; 1<br /> &nbsp;1&nbsp; 4&nbsp; 6&nbsp; 4&nbsp; 1</p>
 </ol>
