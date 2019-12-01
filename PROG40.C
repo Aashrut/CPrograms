@@ -22,4 +22,5 @@ int main()
     }
     printf("\n");
   }
+  retun 0;
 }
