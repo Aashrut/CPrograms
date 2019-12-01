@@ -9,7 +9,7 @@
 #include<stdio.h>
 int main()
 {
-  int i,j,k,n;
+  int i,j,n;
   printf("Enter the number : ");
   scanf("%d",&n);
   for(i=n;i>=1;i--)
