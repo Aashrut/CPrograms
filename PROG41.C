@@ -1,4 +1,11 @@
 //41. Write a program to print patterns as given below:
+// 1
+// 12
+// 123
+// 1234
+// 12345
+// 123456
+
 #include<stdio.h>
 int main()
 {
