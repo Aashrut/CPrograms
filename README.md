@@ -59,4 +59,30 @@ Just different kinds of C Programs.
 * * *<br />
 * *<br />
 *</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>1<br />
+12<br />
+123<br />
+1234<br />
+12345<br />
+123456</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>123456<br />
+12345<br />
+1234<br />
+123<br />
+12<br />
+1</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>666666<br />55555<br />4444<br />333<br />22<br /> 1</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>1<br />22<br />333<br />4444<br />55555<br />666666</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 2 3<br />&nbsp; &nbsp; &nbsp; 1 2 3 4 5<br />&nbsp; &nbsp;1 2 3 4 5 6 7<br />1 2 3 4 5 6 7 8 9</p>
+    <li>Make Pascal's triangle. OR Write a program to print patterns as given below:</li>
+    <p>&nbsp; &nbsp; &nbsp;1<br />
+&nbsp; &nbsp; 1 1<br />
+&nbsp; &nbsp;1 2 1<br />
+&nbsp; 1 3 3 1<br />
+&nbsp;1 4 6 4 1</p>
 </ol>
