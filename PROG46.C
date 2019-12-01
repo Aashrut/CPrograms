@@ -1,4 +1,4 @@
-//46. Write a program to print patterns(Pascal's triangle) as given below:
+//46. Make Pascal's triangle. OR Write a program to print patterns as given below:
 //          1
 //         1 1
 //        1 2 1
