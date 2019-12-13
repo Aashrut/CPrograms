@@ -85,4 +85,20 @@ Just different kinds of C Programs.
     <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* # *<br />&nbsp; &nbsp; &nbsp; * # # # *<br />&nbsp; &nbsp;* # # # # # *<br />* # # # # # # # *</p>
     <li>Write a program to print patterns as given below:</li>
     <p>1<br />1 2<br />1 2 3<br />1 2 3 4<br />1 2 3<br />1 2<br />1</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>A<br />AB<br />ABC<br />ABCD<br />ABCDE</p>
+    <li>Write a program to print patterns as given below:</li>
+    <p>AAAAA<br />BBBB<br />CCC<br />DD<br />E</p>
+    <li>Write a C program to read and store the roll no and marks of 20 students using array.</li>
+    <li>Write a program to find out which number is even or odd from list of 10 numbers using array.</li>
+    <li>Write a program to find maximum element from 1-Dimensional array.</li>
+    <li>Write a C program to calculate the average, geometric and harmonic mean of n elements in an array.</li>
+    <li>Write a program to sort given array in ascending order (Using Bubble sort).</li>
+    <li>Write a program to reverse a number.</li>
+    <li>Write a program to find a chosen character from given string.</li>
+    <li>Write a program to replace a character in given string.</li>
+    <li>Write a program to delete a character in given string.</li>
+    <li>Write a program to reverse string.</li>
+    <li>Write a program to convert string into upper case.</li>
+    <li>Write a program that defines a function to add first n numbers.</li>
 </ol>
