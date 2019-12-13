@@ -1,4 +1,4 @@
-// 55. Write a program to sort given array in ascending order (UsING Bubble sort).
+// 55. Write a program to sort given array in ascending order (Using Bubble sort).
 
 #include<stdio.h>
 int main()
