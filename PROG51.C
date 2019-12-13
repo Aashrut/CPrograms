@@ -1,4 +1,4 @@
-// 51. 39. Write a C program to read and store the roll no and marks of 20 students using array.
+// 51. Write a C program to read and store the roll no and marks of 20 students using array.
 
 #include<stdio.h>
 int main()
