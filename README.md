@@ -101,4 +101,25 @@ Just different kinds of C Programs.
     <li>Write a program to reverse string.</li>
     <li>Write a program to convert string into upper case.</li>
     <li>Write a program that defines a function to add first n numbers.</li>
+    <li>Write a function in the program to return 1 if number is prime otherwise return 0.</li>
+    <li>rite a function Exchange() to interchange the values of two variables, say x and y. illustrate the use of this function in a calling function.</li>
+    <li>Write a C program to use recursive calls to evaluate F(x) = x – x^3 / 3! + x^5 / 5 ! – x^7 / 7! + … x^n/ n!.</li>
+    <li>Write a program to find factorial of a number using recursion.</li>
+    <li>Write a C program using global variable, static variable.</li>
+    <li>Write a function that will scan a character string passed as an argument and convert all lowercase character into their uppercase equivalents.</li>
+    <li>Write a program to read structure elements from keyboard.</li>
+    <li>Define a structure type struct personal that would contain person name, date of joining and salary using this structure to read this information of 5 people and print the same on screen.</li>
+    <li>Define a structure data type called time_struct containing three member‟s - integer hour, integer minute and integer second. Develop a program that would assign values to the individual number and display the time in the format: (16 : 40 : 51).</li>
+    <li> Define a structure called cricket that will describe the following information:
+Player name , Team name, Batting average
+Using cricket, declare an array player with 50 elements and write a C program to read the information about all the 50 players and print team wise list containing names of players with their batting average.</li>
+    <li>Design a structure student_record to contain name, branch and total marks obtained. Develop a program to read data for 10 students in a class and print them.</li>
+    <li>Write a program to print address of variable using pointer.</li>
+    <li>Write a program to swap two values using pointers.</li>
+    <li>Write a program to print the address of character and the character of string using pointer.</li>
+    <li>Write a program to access elements using pointer.</li>
+    <li>Write a program for sorting using pointer.</li>
+    <li>Write a program to write a string in file.</li>
+    <li>A file named data contains series of integer numbers. Write a program to read all numbers from a file and then write all odd numbers into the file named “odd” and write all even numbers into file named “even”. Display all the contents of these file on screen.</li>
 </ol>
+<p aligh='centre'><b><i>Best of Luck</i></b></p>
