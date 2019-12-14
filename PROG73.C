@@ -1,4 +1,4 @@
-// 73. Design a structure student_record to contain name, branch and total marks obtained. Develop a program to read data for 10 students in a class and print them.
+// 73.  Design a structure student_record to contain name, branch and total marks obtained. Develop a program to read data for 10 students in a class and print them.
 
 #include<stdio.h>
 struct student_record
