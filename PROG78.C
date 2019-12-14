@@ -1,16 +1,36 @@
-// 77. Write a program to access elements using pointer.
+// 78. Write a program for sorting using pointer.
 
 #include<stdio.h>
 int main()
 {
-  int i;
-  char *x,str[30];
-  printf("Enter the string : ");
-  gets(str);
-  for(i=0;str[i]!='\0';i++)
+  int arr[30],temp,i,j,n;
+  printf("how many number you want to enter : ");
+  scanf("%d",&n);
+  for(i=0;i<n;i++)
   {
-    x=&str[i];
-    printf("\nThe element : %c & The position : %d",*x,i);
+    printf("Enter the number : ");
+    scanf("%d",&arr[i]);
   }
-  return 0;
+  printf("\nBefore sorting,");
+  for(i=0;i<n;i++)
+  {
+    printf("%d ",arr[i]);
+  }
+  for(i=0;i<n;i++)
+  {
+    for(j=0;j<i;j++)
+    {
+      if(arr[i]<arr[j])
+      {
+        temp=&arr[i];
+        &arr[i]=&arr[j];
+        &arr[j]=temp;
+      }
+    }
+  }
+  printf("\nAfter sorting,");
+  for(i=0;i<n;i++)
+  {
+    printf("%d ",arr[i]);
+  }
 }
