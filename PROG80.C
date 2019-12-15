@@ -6,7 +6,7 @@
 int main()
 {
   FILE *DATA,*ODD,*EVEN;
-  int i,j,n=5;
+  int i,j,n;
   printf("enter how many number you want to enter : ");
   scanf("%d",&n);
   DATA=fopen("DATA.txt","w");
