@@ -2,13 +2,12 @@
 #include<stdio.h>
 int main()
 {
-    int n,temp;
-    printf("Enter the number (number should be more than 2 digits): \n");
+    int n;
+    printf("Enter the number : \n");
     scanf("%d",&n);
-    temp=n/10;
-    while(n>=1)
+    while(n>=10)
     {
-        n=n-temp*10;
+        n = n % 10;
     }
     if(n%2==0)
         printf("The last digit is even.");
