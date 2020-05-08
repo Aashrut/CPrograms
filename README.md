@@ -1,5 +1,5 @@
 # CPrograms
-Just different kinds of C Programs.
+Just different kinds of C Programs. Mostly for GTU Students for PPS Subject.
 <p><b>List of Programs:</b></p>
 <ol>
   <li>Print Hello World</li>
