@@ -122,4 +122,4 @@ Using cricket, declare an array player with 50 elements and write a C program to
     <li>Write a program to write a string in file.</li>
     <li>A file named data contains series of integer numbers. Write a program to read all numbers from a file and then write all odd numbers into the file named “odd” and write all even numbers into file named “even”. Display all the contents of these file on screen.</li>
 </ol>
-<p style="text-align:center;"><b><i>------------------------------------------------------------Best-of-Luck------------------------------------------------------------</i></b></p>
+<center><p><b><i>------------------------------------------------------------Best-of-Luck------------------------------------------------------------</i></b></p></center>
