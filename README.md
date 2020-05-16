@@ -1,5 +1,8 @@
 # CPrograms
-Just different kinds of C Programs. Mostly for GTU Students for PPS Subject.
+The List of C Programs: Getting started with C Programming
+
+This project is created for students who want to step into the field of Computer Science. Here are the list of C Programs that will help the students to get started with C programming. I included many C programs containing all basic concepts.
+
 <p><b>List of Programs:</b></p>
 <ol>
   <li>Print Hello World</li>
