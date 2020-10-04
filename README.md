@@ -124,5 +124,6 @@ Using cricket, declare an array player with 50 elements and write a C program to
     <li>Write a program for sorting using pointer.</li>
     <li>Write a program to write a string in file.</li>
     <li>A file named data contains series of integer numbers. Write a program to read all numbers from a file and then write all odd numbers into the file named “odd” and write all even numbers into file named “even”. Display all the contents of these file on screen.</li>
+    <li>Given a string, s, consisting of alphabets and digits, find the frequency of each digit in the given string. Print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 9.</li>
 </ol>
 <p><b><i>   ------------------------------------------------------------Best-of-Luck------------------------------------------------------------    </i></b></p>
